@@ -6,7 +6,7 @@ I have utilized advanced HTML techniques in this project to create a visually ap
 
 Feel free to explore the project and interact with its various components. You can navigate through the different web pages using the links provided. The website is designed to showcase my skills in HTML, and you can get inspired by your projects' design, layout, and functionality.
 
-https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220630132824/HTML-Full-Form.jpg
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fhtml-full-form%2F&psig=AOvVaw1WOi6KA1MwuBHYquxpBdZT&ust=1695576257090000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCb5_WfwYEDFQAAAAAdAAAAABAE">
 
 <img width="1440" alt="School Page@2x" src="https://user-images.githubusercontent.com/67793634/192224177-3a136d6d-9c94-426a-8bda-370f44123684.png">
 
